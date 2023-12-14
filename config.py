@@ -13,7 +13,7 @@
 #  Feeds can be of mixed types
 
 ICAL_FEEDS = [
-    {'source': '<ICAL URL OR DIRECTORY PATH>', 'destination': '<GOOGLE CAL ID>'},
+    {'source': '<ICAL URL OR DIRECTORY PATH>', 'destination': 'c_b61894ffedb6eac711e1af96a352a29d9a01bd8bdba8981feac7744cada9713f@group.calendar.google.com'},
 #   ...
 ]
 
@@ -32,13 +32,13 @@ ICAL_FEED_VERIFY_SSL_CERT = True
 SCOPES = 'https://www.googleapis.com/auth/calendar'
 
 # API secret stored in this file
-CLIENT_SECRET_FILE = 'ical_to_gcal_sync_client_secret.json'
+CLIENT_SECRET_FILE = 'client_secret_764171418392-3jfir04kfnr1jm8jjioefpkn7lrivmql.apps.googleusercontent.com.json'
 
 # Location to store API credentials
 CREDENTIAL_PATH = 'ical_to_gcal_sync_credentials.json'
 
 # Application name for the Google Calendar API
-APPLICATION_NAME = 'ical_to_gcal_sync'
+APPLICATION_NAME = 'recreation-calendar-408023'
 
 # File to use for logging output
 LOGFILE = 'ical_to_gcal_sync.log'

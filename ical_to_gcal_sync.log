@@ -1,0 +1,5 @@
+2023-12-13 16:04:50,064|[DEBUG] > Loading credentials
+2023-12-13 16:04:50,065|[INFO] Credentials need manually approved!
+2023-12-13 16:05:00,713|[INFO] > Processing source <ICAL URL OR DIRECTORY PATH>
+2023-12-13 16:05:00,713|[INFO] > Retrieving events from Google Calendar
+2023-12-13 16:05:00,713|[DEBUG] Retrieving Google Calendar events
